@@ -1,0 +1,18 @@
+#logOut {
+    padding: 6px 10px;
+    border: none;
+    background-color: transparent;
+
+    color:#0b1c39;
+    font-size:16px;
+    font-family: "Josefin Sans", sans-serif;
+    text-transform: capitalize;
+    text-decoration:none;
+
+    cursor:pointer;
+    transition: color 0.3s;
+}
+
+#logOut:hover {
+    color: #ff2020;
+}

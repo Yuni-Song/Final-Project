@@ -1,0 +1,144 @@
+[
+    {
+        "productId":1,
+        "productName":"Matcha Bubbletea",
+        "price":34.99,
+        "tag":"new",
+        "description":"Match Bubbletea is perfect for crunch time. Its loaded with antioxidants and sugar. It comes with sweet matcha jelly, tea mixture and red beans",
+        "category":"drinks",
+        "imagePath": "https://i.imgur.com/MxmNVvR.jpg"
+    },
+    {
+        "productId":2,
+        "productName":"Peach Ice Tea",
+        "tag":"new",
+        "price":25.50,
+        "description":"Need some extra programming fuel? Peach soda gotcha  covered. Extreme amount of sugar coupled with artificial peach flavor. This is one sugar high you are not going to forget",
+        "category":"drinks",
+        "imagePath": "https://i.imgur.com/P0EkSVO.png"
+    },
+    {
+        "productId":3,
+        "productName":"Hot Pot Soup",
+        "tag":"",
+        "price":41.99,
+        "description":"Warm up with this nice soup",
+        "category":"meals",
+        "imagePath": "https://i.imgur.com/yw3ykF7.png"
+    },
+    {
+        "productId":4,
+        "productName":"Poky sticks",
+        "tag":"new",
+        "price":15.80,
+        "description":"Classical Japanese snacks. Breadsticks covered in dark chocolate made in the Kachigawa region since 1960",
+        "category":"snacks",
+        "imagePath": "https://i.imgur.com/2tqbhPB.png"
+    },
+    {
+        "productId":5,
+        "productName":"Cucumber potatoe chips",
+        "tag":"",
+        "price":20.00,
+        "description":"Amazing spicy mild chips",
+        "category":"snacks",
+        "imagePath": "https://i.imgur.com/wttfybs.png"
+    },
+    {
+        "productId":6,
+        "productName":"Cooked Salted Duck Eggs",
+        "tag":"",
+        "price":22.00,
+        "description":"These cruelty free cooked and salted duck eggs are a great breakfast item",
+        "category":"snacks",
+        "imagePath": "https://i.imgur.com/HVzghRo.png"
+    },
+    {
+        "productId":7,
+        "productName":"Spiced Tofu Snack",
+        "tag":"",
+        "price":10.80,
+        "description":"Silky soft tofu marinated in a  mixture of chinese spices",
+        "category":"meals",
+        "imagePath": "https://i.imgur.com/kMt5Fdn.png"
+    },
+    {
+        "productId":8,
+        "productName":"Sugarfree Oolong Tea",
+        "price":15.00,
+        "description":"Best for cold summers",
+        "category":"drinks",
+        "imagePath": "https://i.imgur.com/bSHzJVY.png"
+    },
+    {
+        "productId":9,
+        "productName":"Matcha Chocolate Box",
+        "tag":"",
+        "price":50.00,
+        "description":"Need to thank your friend for helping you with an error that drove you crazy? Matcha Chocolate box is one gift that keeps your friend coming back for more (Lets face it - you are going to need him in the future if you want to keep your sanity)",
+        "category":"snacks",
+        "imagePath": "https://i.imgur.com/FgZM6Gc.jpg"
+    },
+    {
+        "productId":10,
+        "productName":"Rice Jelly",
+        "tag":"",
+        "price":35.00,
+        "description":"This delightfully tasty and refreshing snack has it all. Dig in to the silky smooth rice jelly and  be transported to dessert heaven by your pudding cup. ",
+        "category":"snacks",
+        "imagePath": "https://i.imgur.com/NNmrCjw.png"
+    },
+    {
+        "productId":11,
+        "productName":"Sangaria Melon Soda, 250 ml",
+        "tag":"new",
+        "price":10.00,
+        "description":"A fruity sweet Japanese favourite.Bring a little sunshine into your days with Sangaria's melon soda. This fizzy drink has a seriously sweet, mellow, melon fruit flavour. Perfect for enjoying straight from the fridge, with or without ice.",
+        "category":"drinks",
+        "imagePath": "https://i.imgur.com/DnXz8ER.png"
+    },
+    {
+        "productId":12,
+        "productName":"Sato Shouten Low Calorie Shirataki Yam Noodles, 100 g ",
+        "tag":"",
+        "price":10.00,
+        "description":"Konnyaku and shirataki noodles are among Japan's best-kept dieting secrets. These gluten-free blocks of konjac yam have a satisfying chewy texture perfect for bulking up stews noodle dishes and contain less than 10 calories a serving!",
+        "category":"meals",
+        "imagePath": "https://i.imgur.com/EJcNyKX.png"
+    },
+    {
+        "productId":13,
+        "productName":"QP Kewpie Mayonnaise, 1l ",
+        "tag":"",
+        "price":60.00,
+        "description":"First made in 1925, Kewpie has a richer, creamier flavour than your usual mayonnaise due to its exclusive use of egg yolks and a mix of apple and malt vinegars. Kewpie comes in a large squeezy bottle to make it easy to pour on to your favourite dishes!",
+        "category":"meals",
+        "imagePath": "https://i.imgur.com/R8wt3Bs.png"
+    },
+    {
+        "productId":14,
+        "productName":"Morinaga Hi Chew Mango Chewy Candy (Taiwanese), 10 pieces ",
+        "tag":"",
+        "price":15.00,
+        "description":"When you need a little sweet fruit to carry on with your day, turn to Hi Chew. This pack contains ten mouthwatering mango flavoured,  chewy sweets, made with real mango puree to ensure a full fruity flavour. These are perfect for enjoying during the work or school day. Product of Taiwan.",
+        "category":"snacks",
+        "imagePath": "https://i.imgur.com/4iPG53k.png"
+    },
+    {
+        "productId":15,
+        "productName":"Kasugai Grape Gummy Candy, 105 g ",
+        "price":25.00,
+        "description":"Lip-smackingly good gummy sweets in a whole variety of fruit flavours. The Grape Jelly Sweets are purple in colour and shaped like a heart! Chewy and mouth-watering, you will want to try all 10 flavours! Each flavour contains real fruit juice, the tastes are amazingly authentic!",
+        "category":"snacks",
+        "imagePath": "https://i.imgur.com/57VECyU.png"
+    },
+    {
+        "productId":16,
+        "productName":"Nissin Soba Noodles With Teriyaki Yakisoba Sauce (UK), 100 g ",
+        "tag":"",
+        "price":15.00,
+        "description":"The saucy savoury flavour of teriyaki is yours to enjoy any time with Nissin's teriyaki yakisoba noodles. This disposable cup comes with a pile of  instant yakisoba noodles, a nice sachet of teriyaki flavoured seasoning sauce, and a functional lid that also serves as a drain for the excess water after the noodles have been rehydrated. All you need now to enjoy a teriyaki flavoured hot snack or light meal is boiling water and a fork.",
+        "category":"meals",
+        "imagePath": "https://i.imgur.com/Mm7eyvY.png"
+    }
+]
